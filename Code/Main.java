@@ -1,6 +1,6 @@
 import java.util.Random;
 /**
- * @author Elif Pulukçu
+ * @author Elif PulukÃ§u
  * @since March 18, 2019
  * Program Explanation: This program generates N (n=10, n=100) circles
  * with random coordinates and radiuses.Draws without going beyond the
@@ -8,10 +8,8 @@ import java.util.Random;
  */
 
 public class Main {
-
-
+	
 	public static void main(String[] args) { 
-
 		// Draws the canvas
 		drawWorld();
 
